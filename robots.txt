@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /keyword-map.md
+Disallow: /seo-update.patch
+
+Sitemap: https://iwon88.cn/sitemap.xml
